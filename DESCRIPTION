@@ -13,3 +13,5 @@ Imports:
     gh,
     glue,
     janitor
+URL: https://github.com/R-Ladies-Sao-Paulo/infra
+BugReports: https://github.com/R-Ladies-Sao-Paulo/infra/issues
